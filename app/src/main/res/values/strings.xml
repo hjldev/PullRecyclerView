@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PullRecyclerview</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="listview_loading">正在加载...</string>
+    <string name="nomore_loading">没有更多了</string>
+</resources>
